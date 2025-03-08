@@ -1,1 +1,1 @@
-#simple library_management_system
+#CLI library_management_system
